@@ -4,7 +4,7 @@ from graph.workflow import graph
 
 def run_chatbot():
     print("\n===================================")
-    print("🤖 AI RECRUITMENT SYSTEM STARTED")
+    print(" AI RECRUITMENT SYSTEM STARTED")
     print("===================================\n")
 
     jd_path = Path("data/jd/ai_engineer.txt")
@@ -28,7 +28,7 @@ def run_chatbot():
 
     while True:
 
-        user_input = input("\n👨‍💼 Recruiter: ")
+        user_input = input("\n Recruiter: ")
 
         if user_input.lower() in ["exit", "quit"]:
             print("Exiting system...")
@@ -40,19 +40,19 @@ def run_chatbot():
 
         if state.get("messages"):
             for msg in state["messages"]:
-                print("\n📌", msg)
+                print("\n", msg)
 
         if state.get("ranked_candidates"):
-            print("\n🏆 TOP CANDIDATES:")
+            print("\n TOP CANDIDATES:")
             for c in state["ranked_candidates"]:
                 print(f"- {c['name']} | Score: {c['score']}%")
 
         if state.get("salary_data"):
-            print("\n💰 SALARY INFO:")
+            print("\n SALARY INFO:")
             print(state["salary_data"])
 
         if state.get("interview_questions"):
-            print("\n🎤 INTERVIEW QUESTIONS:")
+            print("\n INTERVIEW QUESTIONS:")
             print(state["interview_questions"])
 
         # DEBUG (SAFE)

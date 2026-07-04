@@ -27,7 +27,7 @@ Classify the intent into ONE of these:
 - screening
 - interview
 - salary
-- rewrite_jd
+- rewrite_agent
 
 User Query:
 {query}
