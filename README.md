@@ -1,4 +1,4 @@
-# 🤖 AI Recruitment Multi-Agent System
+#  AI Recruitment Multi-Agent System
 
 A LangGraph-powered AI recruitment system that automates:
 
@@ -11,9 +11,9 @@ A LangGraph-powered AI recruitment system that automates:
 
 ---
 
-# 🚀 Features
+#  Features
 
-## 🧠 Multi-Agent System
+##  Multi-Agent System
 - JD Agent
 - Resume Agent
 - Screening Agent
@@ -21,27 +21,27 @@ A LangGraph-powered AI recruitment system that automates:
 - Salary Agent
 - Approval Agent
 
-## 🔍 RAG Pipeline
+##  RAG Pipeline
 - Embeddings (Gemini)
 - Vector DB (Chroma)
 - Semantic resume matching
 
-## 🌐 Tool Usage
+##  Tool Usage
 - Tavily Web Search (salary data)
 - Python tools (counting, parsing)
 
-## 👨‍💻 Human-in-loop
+##  Human-in-loop
 Recruiter approves final shortlist before output
 
 ---
 
-# 🏗 Architecture
+#  Architecture
 
 User → Router → LangGraph → Agents → Tools → Final Output
 
 ---
 
-# 📦 Tech Stack
+#  Tech Stack
 
 - Python
 - LangGraph
@@ -53,7 +53,7 @@ User → Router → LangGraph → Agents → Tools → Final Output
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ```bash
 git clone <repo>
