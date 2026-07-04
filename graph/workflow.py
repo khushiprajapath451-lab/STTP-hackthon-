@@ -1,10 +1,9 @@
 from langgraph.graph import StateGraph, END
-from graph.state import RecruiterState
+
 from graph.state import RecruiterState
 from graph.router import router
 from graph.edges import route_decision
 
-# agents
 from agents.jd_agent import jd_agent
 from agents.resume_agent import resume_agent
 from agents.screening_agent import screening_agent
