@@ -59,3 +59,15 @@ User → Router → LangGraph → Agents → Tools → Final Output
 git clone <repo>
 cd AI-Recruitment-System
 pip install -r requirements.txt
+
+# AI Recruitment System
+
+## Demo Video
+
+**Watch the project demo here:**
+https://drive.google.com/file/d/1AX9Mu2JvFZMob1Lahuk9waZ5G9De368e/view?usp=sharing
+
+**Project Presentation**
+
+
+
