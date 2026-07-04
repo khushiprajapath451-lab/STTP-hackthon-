@@ -1,0 +1,10 @@
+{
+    "AI Engineer": {
+        "India": "₹12 - ₹20 LPA",
+        "top_companies": ["Google", "Microsoft", "Amazon"]
+    },
+    "Python Developer": {
+        "India": "₹6 - ₹12 LPA",
+        "top_companies": ["Infosys", "TCS", "Wipro"]
+    }
+}

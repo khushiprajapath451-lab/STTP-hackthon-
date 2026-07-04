@@ -1,0 +1,22 @@
+digraph Architecture {
+	rankdir=TB
+	R [label="Recruiter (User)"]
+	M [label="main.py (CLI Entry)"]
+	G [label="LangGraph Engine"]
+	J [label="JD Agent"]
+	R2 [label="Resume Agent"]
+	S [label="Screening Agent (RAG)"]
+	I [label="Interview Agent (LLM)"]
+	SA [label="Salary Agent (Tavily)"]
+	A [label="Approval Agent (Human-in-loop)"]
+	F [label="Final Response Agent"]
+	R -> M
+	M -> G
+	G -> J
+	J -> R2
+	R2 -> S
+	S -> A
+	A -> I
+	I -> SA
+	SA -> F
+}

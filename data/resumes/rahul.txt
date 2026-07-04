@@ -1,0 +1,13 @@
+Rahul Sharma
+
+Skills:
+Python, LangChain, Docker, FastAPI
+
+Experience:
+3 years
+
+Education:
+B.Tech CSE
+
+Project:
+AI Chatbot using LLMs

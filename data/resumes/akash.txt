@@ -1,0 +1,13 @@
+Akash Verma
+
+Skills:
+Java, Spring Boot, SQL
+
+Experience:
+3 years
+
+Education:
+B.Tech CSE
+
+Project:
+Backend API system

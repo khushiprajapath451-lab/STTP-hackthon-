@@ -1,0 +1,19 @@
+AI Engineer
+
+We are looking for an AI Engineer with experience in:
+
+Skills:
+Python
+LangChain
+Machine Learning
+Docker
+FastAPI
+
+Experience:
+2-4 years
+
+Location:
+India
+
+Education:
+B.Tech / M.Tech

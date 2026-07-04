@@ -1,0 +1,12 @@
+google-genai
+python-dotenv
+langchain
+langchain-google-genai
+langchain-groq
+langchain-core
+langchain-community
+langchain-chroma
+chromadb
+pydantic
+tiktoken
+rich

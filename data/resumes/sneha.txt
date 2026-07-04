@@ -1,0 +1,13 @@
+Sneha Patel
+
+Skills:
+Python, Machine Learning, SQL
+
+Experience:
+2 years
+
+Education:
+B.Tech IT
+
+Project:
+Fraud Detection System
