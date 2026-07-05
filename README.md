@@ -68,6 +68,7 @@ pip install -r requirements.txt
 https://drive.google.com/file/d/1AX9Mu2JvFZMob1Lahuk9waZ5G9De368e/view?usp=sharing
 
 **Project Presentation**
+https://drive.google.com/file/d/1nxqImp8SnXpCy4j16tj9aYxKYcc8Hmvo/view?usp=sharing
 
 
 
